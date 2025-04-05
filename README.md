@@ -47,5 +47,5 @@
 ---
 
 > “The best way to learn is by building.”  
-That’s been my approach — and I’m excited to keep learning and creating.
+That's been my approach since day one.
 
