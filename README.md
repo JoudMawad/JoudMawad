@@ -42,7 +42,6 @@
 ## 📫 Get in Touch
 
 - 🌐 [judemawad.com](https://judemawad.com)
-- 📧 judemawad[at]gmail.com
 - 📸 [Instagram – @judemawad]([https://www.instagram.com/judemawad/](https://www.instagram.com/jude_mawad/?igsh=c3oxYjN0MHFjZTJn&utm_source=qr))
 
 ---
