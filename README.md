@@ -23,7 +23,7 @@
 ## 🚀 Projects
 
 - 📱 **IGNITE A Calorie Tracker App**  
-  A clean SwiftUI-based app using Core Data and HealthKit to track daily calories and data visualizations — with barcode scanning in the works.
+  A clean SwiftUI-based app using Core Data and HealthKit to track daily calories and data visualizations, with barcode scanning in the works.
 
 - 🌍 **Personal Portfolio Website**  
   Responsive and animated, built with HTML/CSS/JS
