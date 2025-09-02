@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Jude Mawad
 
-🎓 I'm a Computer Science student at TU Braunschweig with a passion for mobile and web development.  
-💡 I enjoy building clean, original apps that solve real problems — from iOS tools to responsive websites.
+🎓 I'm a Computer Science student at TU Braunschweig with a passion for mobile and web development.
+💡 I enjoy building clean, original apps that solve real problems, from iOS tools to responsive websites.
 
 ![Profile views](https://komarev.com/ghpvc/?username=judemawad&color=blue&style=flat)
 
